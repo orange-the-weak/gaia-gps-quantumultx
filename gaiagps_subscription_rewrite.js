@@ -38,5 +38,5 @@ obj.other_subscriptions = [
   }
 ];
 
-// 更新响应
+// 确保其他数据保持不变，并返回修改后的响应体
 $done({ body: JSON.stringify(obj) });

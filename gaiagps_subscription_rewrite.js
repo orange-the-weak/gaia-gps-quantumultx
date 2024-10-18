@@ -12,10 +12,10 @@ obj.subscription = {
   "identifier": "GaiaGPSPremiumApple",
   "canceled": false,
   "provider": "appstore",
-  "endDate": "2099-10-14 09:45:04",
+  "endDate": "2099-12-31 09:45:04",
   "startDate": "2024-10-07 09:45:04",
-  "originaltransactionid": "530001909808229",
-  "transactionid": "530001909808229"
+  "originaltransactionid": "530001902208229",
+  "transactionid": "530001902208229"
 };
 
 // 修改其他订阅信息
@@ -31,10 +31,10 @@ obj.other_subscriptions = [
     "identifier": "GaiaGPSPremiumApple",
     "canceled": false,
     "provider": "appstore",
-    "endDate": "2099-10-14 09:45:04",
+    "endDate": "2099-12-31 09:45:04",
     "startDate": "2024-10-07 09:45:04",
-    "originaltransactionid": "530001909808229",
-    "transactionid": "530001909808229"
+    "originaltransactionid": "530001902208229",
+    "transactionid": "530001902208229"
   }
 ];
 
